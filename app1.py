@@ -28,7 +28,7 @@ def def_finder(word):
                  return "The word '%s' doesn't exist. Please re-check!" % word
     
          else:
-             return "The word '%s' doesn't exist. Please re-check!" % word
+             return "The word '%s' doesn't exist. Please re-check..!" % word
     # else:
     #     return "The word '%s' doesn't exist. Please re-check!" % word
 
